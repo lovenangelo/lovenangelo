@@ -2,8 +2,7 @@
 - 👀 I’m interested in Music and Gaming
 - 🌱 I’m currently learning mobile app development with Flutter
 - 💞️ I’m looking to collaborate on an app project using Flutter
-- 📫 How to reach me:
--   email: lovenangelodev@gmail.com
+- 📫 How to reach me: lovenangelodev@gmail.com
 
 <!---
 lovenangelo/lovenangelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
