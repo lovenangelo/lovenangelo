@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @lovenangelo
 - 👀 I’m interested in Music and Gaming
-- 🌱 I’m currently learning mobile app development with Flutter
-- 💞️ I’m looking to collaborate on an app project using Flutter
+- 🌱 I’m learning mobile app development with Flutter
+- 🌱 I’m learning React development with Flutter
+- 💞️ I’m looking to collaborate on an app project using Flutter or any
 - 📫 How to reach me: lovenangelo.dev@gmail.com
 
 <!---
